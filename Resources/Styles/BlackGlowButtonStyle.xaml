@@ -5,7 +5,7 @@
         <ResourceDictionary Source="./Brushes.xaml" />
     </ResourceDictionary.MergedDictionaries>
 
-    <Style TargetType="{x:Type Button}">
+    <!--<Style TargetType="{x:Type Button}">
         <Setter Property="OverridesDefaultStyle" Value="True" />
         <Setter Property="Foreground" Value="{StaticResource DefaultForegroundBrush}" />
         <Setter Property="Template">
@@ -55,5 +55,5 @@
                 </ControlTemplate>
             </Setter.Value>
         </Setter>
-    </Style>
+    </Style>-->
 </ResourceDictionary>
