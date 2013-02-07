@@ -50,7 +50,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Ionic.Zip">
-      <HintPath>..\Lib\Ionic.Zip.dll</HintPath>
+      <HintPath>Lib\Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="RestSharp">
       <HintPath>packages\RestSharp.103.4\lib\net4\RestSharp.dll</HintPath>
